@@ -10,9 +10,14 @@ Bug Fix:
 
 * Fix typo in the error logging text for when a hook did not exit successfully,
   thanks to `@luzfcb`_ (#656)
+* Added more Cookiecutters to the list:
+
+  * `cookiecutter-funkload-friendly`_ by `@tokibito`_
 
 .. _`@luzfcb`: https://github.com/luzfcb
+.. _`@tokibito`: https://github.com/tokibito
 
+.. _`cookiecutter-funkload-friendly`: https://github.com/tokibito/cookiecutter-funkload-friendly
 
 1.4.0 (2016-03-20) Shortbread
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
